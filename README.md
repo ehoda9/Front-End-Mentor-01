@@ -24,19 +24,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS
 - Flexbox
-- Media query
-
-### What I learned
-
-```css
-@media query{}
-```
-
 
 ## Author
 
 - Website - [N/A](N/A)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ehoda9](https://www.frontendmentor.io/profile/ehoda9)
 - Twitter - [N/A](N/A)
 
 
