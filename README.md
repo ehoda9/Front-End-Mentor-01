@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 ### Links
 
-- Live Site URL: (https://ehoda9.github.io/Front-End-Mentor-01/)
+- Live Site URL: [Live Preview](https://ehoda9.github.io/Front-End-Mentor-01/)
 
 ## My process
 
@@ -27,8 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [N/A](N/A)
 - Frontend Mentor - [@ehoda9](https://www.frontendmentor.io/profile/ehoda9)
-- Twitter - [N/A](N/A)
 
 
